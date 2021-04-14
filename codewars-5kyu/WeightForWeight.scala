@@ -1,3 +1,6 @@
+
+//LINK : https://www.codewars.com/kata/55c6126177c9441a570000cc
+
 object WeightSort {
 
   def orderWeight(strng: String): String = {
