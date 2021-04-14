@@ -1,3 +1,6 @@
+
+// LINK : https://www.codewars.com/kata/54da539698b8a2ad76000228
+
 object Solution {
   def isValidWalk(walk: Seq[Char]): Boolean = {
     if(walk.length == 10) {
