@@ -1,3 +1,6 @@
+
+// LINK: https://www.codewars.com/kata/564057bc348c7200bd0000ff
+
 import scala.annotation.tailrec
 
 object Thirteen {
