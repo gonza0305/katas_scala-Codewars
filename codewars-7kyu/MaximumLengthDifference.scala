@@ -1,3 +1,6 @@
+
+// LINK: https://www.codewars.com/kata/5663f5305102699bad000056
+
 import scala.collection.mutable.ArrayBuffer
 
 object Kata {
